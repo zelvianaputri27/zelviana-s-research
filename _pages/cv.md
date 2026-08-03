@@ -5,13 +5,8 @@ permalink: /CV/
 author_profile: true
 ---
 
-<iframe src="{{ base_path }}/files/zelvianaputri_GitHubCV.pdf"
-        width="100%"
-        height="1000px"
-        style="border: none;">
-</iframe>
-<iframe src="{{ base_path }}/files/zelvianaputri_GitHubCV.pdf"
-        width="100%"
-        height="1000px"
-        style="border: none;">
-</iframe>
+<embed
+src="{{ '/files/zelvianaputri_GitHubCV.pdf' | relative_url }}"
+type="application/pdf"
+width="100%"
+height="1000px">
