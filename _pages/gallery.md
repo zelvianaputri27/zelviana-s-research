@@ -1,73 +1,98 @@
 ---
+layout: archive
 title: "Gallery"
 permalink: /gallery/
 author_profile: true
 ---
 
-## 🏆 Achievements
+# Gallery
 
-Selected moments from research competitions, academic awards, and professional achievements.
-
-<div class="gallery">
-
-  <div class="gallery-item">
-    <img src="/images/gallery/AWARDS_1.jpg" alt="Research Achievement">
-    <p>Research Achievement</p>
-  </div>
-
-  <div class="gallery-item">
-    <img src="/images/gallery/AWARDS_2.jpg" alt="Academic Achievement">
-    <p>Academic Achievement</p>
-  </div>
-
-  <div class="gallery-item">
-    <img src="/images/gallery/AWARDS_3.jpg" alt="Research Award">
-    <p>Research Award</p>
-  </div>
-
-  <div class="gallery-item">
-    <img src="/images/gallery/Competition_2019.jpg" alt="National Food Technology Competition">
-    <p>1st Winner — National Food Technology Competition (2019)</p>
-  </div>
-
-  <div class="gallery-item">
-    <img src="/images/gallery/COnference_KIWIE_2019(2).jpg" alt="Korea International Women's Invention Exposition">
-    <p>Gold Medal — Korea International Women's Invention Exposition (KIWIE), 2019</p>
-  </div>
-
-</div>
+A glimpse of my academic journey through conferences, laboratory research, scientific competitions, and research achievements.
 
 ---
 
-## 🌍 International Conferences
+## 🏆 Research Awards & Achievements
 
-Highlights from international conferences, symposiums, and scientific meetings.
+<table>
+<tr>
+<td align="center">
+<img src="{{ site.baseurl }}/images/gallery/AWARDS_1.jpg" width="320"><br>
+<b>Best Research Poster</b><br>
+KoSFoST International Symposium 2025
+</td>
 
-<div class="gallery">
+<td align="center">
+<img src="{{ site.baseurl }}/images/gallery/AWARDS_2.jpg" width="320"><br>
+<b>BK21 Research Grant</b><br>
+Graduate Research Competition 2025
+</td>
+</tr>
 
-  <div class="gallery-item">
-    <img src="/images/gallery/Conference_Bali_2023(2).jpg" alt="Conference Bali 2023">
-    <p>International Conference, Bali, Indonesia (2023)</p>
-  </div>
+<tr>
+<td align="center">
+<img src="{{ site.baseurl }}/images/gallery/AWARDS_3.jpg" width="320"><br>
+<b>Research Achievement</b>
+</td>
 
-  <div class="gallery-item">
-    <img src="/images/gallery/Conference_TDM_2024.JPG" alt="TDM Conference 2024">
-    <p>International Conference (2024)</p>
-  </div>
+<td></td>
+</tr>
+</table>
 
-  <div class="gallery-item">
-    <img src="/images/gallery/Conference_Jeju_2025.jpeg" alt="Conference Jeju 2025">
-    <p>International Conference, Jeju, South Korea (2025)</p>
-  </div>
+---
 
-  <div class="gallery-item">
-    <img src="/images/gallery/Conference_KosFost_2025.jpg" alt="KoSFoST 2025">
-    <p>KoSFoST International Symposium & Annual Meeting (2025)</p>
-  </div>
+## 🌏 International Conferences
 
-  <div class="gallery-item">
-    <img src="/images/gallery/Conference_Gyeongju_2026.jpg" alt="Conference Gyeongju 2026">
-    <p>International Conference, Gyeongju, South Korea (2026)</p>
-  </div>
+<table>
 
-</div>
+<tr>
+<td align="center">
+<img src="{{ site.baseurl }}/images/gallery/Conference_KosFost_2025.jpg" width="320"><br>
+KoSFoST International Symposium 2025
+</td>
+
+<td align="center">
+<img src="{{ site.baseurl }}/images/gallery/Conference_Gyeongju_2026.jpg" width="320"><br>
+Korea Metabolomics Society 2026
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="{{ site.baseurl }}/images/gallery/Conference_Jeju_2025.jpeg" width="320"><br>
+13th KSP–JSP–CPA Joint Symposium
+</td>
+
+<td align="center">
+<img src="{{ site.baseurl }}/images/gallery/Conference_TDM_2024.JPG" width="320"><br>
+International Congress of Diabetes & Metabolism
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="{{ site.baseurl }}/images/gallery/Conference_Bali_2023(2).jpg" width="320"><br>
+ICAMPS 2023, Bali
+</td>
+
+<td align="center">
+<img src="{{ site.baseurl }}/images/gallery/Conference_KIWIE_2019(2).jpg" width="320"><br>
+Korea International Women's Invention Exposition
+</td>
+</tr>
+
+</table>
+
+---
+
+## 🥇 Scientific Competitions
+
+<table>
+
+<tr>
+<td align="center">
+<img src="{{ site.baseurl }}/images/gallery/Competition_2019.jpg" width="320"><br>
+National Food Technology Competition
+</td>
+</tr>
+
+</table>
