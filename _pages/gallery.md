@@ -7,92 +7,120 @@ author_profile: true
 
 # Gallery
 
-A glimpse of my academic journey through conferences, laboratory research, scientific competitions, and research achievements.
+A visual journey through my research activities, international conferences, laboratory experiences, and academic achievements.
 
 ---
 
-## 🏆 Research Awards & Achievements
+## 🧪 Laboratory
 
-<table>
-<tr>
-<td align="center">
-<img src="{{ site.baseurl }}/images/gallery/AWARDS_1.jpg" width="320"><br>
-<b>Best Research Poster</b><br>
-KoSFoST International Symposium 2025
-</td>
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
 
-<td align="center">
-<img src="{{ site.baseurl }}/images/gallery/AWARDS_2.jpg" width="320"><br>
-<b>BK21 Research Grant</b><br>
-Graduate Research Competition 2025
-</td>
-</tr>
+<div align="center">
+<img src="{{ site.baseurl }}/images/gallery/LAB ACTIVITY1.jpg" width="300">
+<br>
+Research activities at Kyungpook National University
+</div>
 
-<tr>
-<td align="center">
-<img src="{{ site.baseurl }}/images/gallery/AWARDS_3.jpg" width="320"><br>
-<b>Research Achievement</b>
-</td>
+<div align="center">
+<img src="{{ site.baseurl }}/images/gallery/LAB ACTIVITY2.jpeg" width="300">
+<br>
+Natural product isolation and characterization
+</div>
 
-<td></td>
-</tr>
-</table>
+<div align="center">
+<img src="{{ site.baseurl }}/images/gallery/LAB MEMBERS1.jpg" width="300">
+<br>
+Research group
+</div>
+
+<div align="center">
+<img src="{{ site.baseurl }}/images/gallery/LAB MEMBERS2.JPG" width="300">
+<br>
+Laboratory members
+</div>
+
+</div>
 
 ---
 
 ## 🌏 International Conferences
 
-<table>
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
 
-<tr>
-<td align="center">
-<img src="{{ site.baseurl }}/images/gallery/Conference_KosFost_2025.jpg" width="320"><br>
-KoSFoST International Symposium 2025
-</td>
+<div align="center">
+<img src="{{ site.baseurl }}/images/gallery/Conference_KosFost_2025.jpg" width="300">
+<br>
+KoSFoST International Symposium (2025)
+</div>
 
-<td align="center">
-<img src="{{ site.baseurl }}/images/gallery/Conference_Gyeongju_2026.jpg" width="320"><br>
-Korea Metabolomics Society 2026
-</td>
-</tr>
+<div align="center">
+<img src="{{ site.baseurl }}/images/gallery/Conference_Gyeongju_2026.jpg" width="300">
+<br>
+Korea Metabolomics Society (2026)
+</div>
 
-<tr>
-<td align="center">
-<img src="{{ site.baseurl }}/images/gallery/Conference_Jeju_2025.jpeg" width="320"><br>
+<div align="center">
+<img src="{{ site.baseurl }}/images/gallery/Conference_Jeju_2025.jpeg" width="300">
+<br>
 13th KSP–JSP–CPA Joint Symposium
-</td>
+</div>
 
-<td align="center">
-<img src="{{ site.baseurl }}/images/gallery/Conference_TDM_2024.JPG" width="320"><br>
+<div align="center">
+<img src="{{ site.baseurl }}/images/gallery/Conference_TDM_2024.JPG" width="300">
+<br>
 International Congress of Diabetes & Metabolism
-</td>
-</tr>
+</div>
 
-<tr>
-<td align="center">
-<img src="{{ site.baseurl }}/images/gallery/Conference_Bali_2023(2).jpg" width="320"><br>
+<div align="center">
+<img src="{{ site.baseurl }}/images/gallery/Conference_Bali_2023(2).jpg" width="300">
+<br>
 ICAMPS 2023, Bali
-</td>
+</div>
 
-<td align="center">
-<img src="{{ site.baseurl }}/images/gallery/Conference_KIWIE_2019(2).jpg" width="320"><br>
+<div align="center">
+<img src="{{ site.baseurl }}/images/gallery/Conference_KIWIE_2019(3).jpg" width="300">
+<br>
 Korea International Women's Invention Exposition
-</td>
-</tr>
+</div>
 
-</table>
+</div>
+
+---
+
+## 🏆 Research Awards
+
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+
+<div align="center">
+<img src="{{ site.baseurl }}/images/gallery/AWARDS_1.jpg" width="300">
+<br>
+Best Research Poster (KoSFoST 2025)
+</div>
+
+<div align="center">
+<img src="{{ site.baseurl }}/images/gallery/AWARDS_2.jpg" width="300">
+<br>
+BK21 Research Grant Competition
+</div>
+
+<div align="center">
+<img src="{{ site.baseurl }}/images/gallery/AWARDS_3.jpg" width="300">
+<br>
+Research Achievement
+</div>
+
+</div>
 
 ---
 
 ## 🥇 Scientific Competitions
 
-<table>
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
 
-<tr>
-<td align="center">
-<img src="{{ site.baseurl }}/images/gallery/Competition_2019.jpg" width="320"><br>
-National Food Technology Competition
-</td>
-</tr>
+<div align="center">
+<img src="{{ site.baseurl }}/images/gallery/Competition_2019.jpg" width="300">
+<br>
+1st Winner – National Food Technology Competition (2019)
+</div>
 
-</table>
+</div>
